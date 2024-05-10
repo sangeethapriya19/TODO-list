@@ -8,7 +8,7 @@
 .container{
     width:100%;
     min-height:100vh;
-    background:linear-gradient(135deg, #153677, #4e085f);
+    background:linear-gradient(135deg, #662d8c, #ed1e79);
     padding:10px;
 }
 
@@ -107,4 +107,12 @@ ul li span{
 
 ul li span:hover{
     background-color:rgb(199, 193, 193);
+}
+
+h1{
+    color:white;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
 }
